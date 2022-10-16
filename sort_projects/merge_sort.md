@@ -28,5 +28,7 @@
                [8,11,12,16,21,22]
                
  2. Best Case : O(n*logn)
+ 3. 
     Average Case : O(n*logn)
-    Worst Case : O(n*logn              
+              
+    Worst Case : O(n*logn)            
