@@ -28,6 +28,7 @@
                [8,11,12,16,21,22]
                
  2. Merge Sort'un Big-O gösterimi: 
+ 3. 
     Best Case : O(n*logn)
  
     Average Case : O(n*logn)
